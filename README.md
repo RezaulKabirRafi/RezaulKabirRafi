@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**RezaulKabirRafi/RezaulKabirRafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Kazi Rezaul Kabir Rafi** — a Computer Science & Engineering graduate combining technical skills with hands-on business and operations experience.
 
-Here are some ideas to get you started:
+- 🚀 Co-Founder at **Styrik**, a direct-to-consumer clothing brand
+- 💻 Background in **Python, Django, SQL**, and applied **Machine Learning**
+- 🌱 Building toward **QA & Test Automation** (manual + automation testing)
+- 🎓 B.Tech in CS&E from Kalinga Institute of Industrial Technology (KIIT), India
+- 🔬 R&D interests: ML-based prediction systems, blockchain security applications
+- 💬 Ask me about: product operations, market research, or Python/Django development
+- 📫 Reach me: rezaulkabir24@gmail.com 
+- 📍 Based in Dhaka, Bangladesh
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+`Python` `Django` `SQL` `JavaScript` `Git` `Docker` `Linux`
